@@ -1,4 +1,4 @@
-This project is based on exercises from a udemy course, which is a learning porpose repository.
+This project is based on exercises from an udemy course, which is a learning porpose repository.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
